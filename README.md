@@ -26,12 +26,12 @@ Origine : [Keskidi](https://hackropole.fr/fr/challenges/pwn/fcsc2023-pwn-keskidi
 > http://localhost
 
 #### tentez 
-> nc keskidi.cyrhades.fr:4000
+> nc keskidi.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
